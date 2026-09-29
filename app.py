@@ -13,9 +13,7 @@ if "pwa_loaded" not in st.session_state:
     }
     </script>
     """, unsafe_allow_html=True)
-st.title("AI Study Planner with Exam Prediction - Agentic Edition")
-st.caption("Tutor Agent | Memory Agent | Evaluator Agent | Adaptive Engine")
-
+    
 # ================= Page Config =================
 st.set_page_config(page_title="AI Study Planner - Agentic Edition", page_icon="", layout="wide")
 st.title("AI Study Planner with Exam Prediction - Agentic Edition")
