@@ -1,0 +1,12 @@
+{
+  "profile": {
+    "subject": "Dev Ops",
+    "topics": "Overview of Version Control Systems(VCS) - GIT Features and advantages Of GIT- Creating and\nmanaging GitHub accounts\nWorking With GIT commands: CONFIG. CLONE.\nREBASE.MERGE. Introduction to Maven - Maven installation and configuration - Maven build\nrequirements - project Object Model(pom xml) structure - Maven lifecycle phases - Managing Maven\ndependencies - Maven Plugins.",
+    "exam_date": "2026-10-09",
+    "hours": 4,
+    "level": "Just started"
+  },
+  "evaluations": [],
+  "weak_topics": [],
+  "plans_generated": 1
+}
